@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556871004412",
+    "project_id": "imageuploadfirebase-f9a58",
+    "storage_bucket": "imageuploadfirebase-f9a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556871004412:android:7c0c959e3f8c2176cfe779",
+        "android_client_info": {
+          "package_name": "com.example.practica13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJhcNH5Gk9nuM60FZUA_w5Wcd5f56rLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
